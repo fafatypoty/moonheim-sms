@@ -1,5 +1,6 @@
 from setuptools import setup, find_packages
-from moonheim_sms.__version__ import __version__
+
+__version__ = "0.1.2.2"
 
 with open("README.md", "r", encoding="utf-8") as desc_long:
     description_long = desc_long.read()
