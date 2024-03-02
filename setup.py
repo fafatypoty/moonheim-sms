@@ -1,16 +1,6 @@
 from setuptools import setup, find_packages
 from moonheim_sms.__version__ import __version__
 
-# def requirements():
-#     requirements_list = list()
-#     with open('requirements.txt') as pc_requirements:
-#         for install in pc_requirements:
-#             requirements_list.append(
-#                 install.strip()
-#             )
-#     return requirements_list
-
-
 with open("README.md", "r", encoding="utf-8") as desc_long:
     description_long = desc_long.read()
 
@@ -43,7 +33,7 @@ setup(
         'Intended Audience :: Developers',  # Define that your audience are developers
         'Topic :: Software Development :: Build Tools',
 
-        'License :: OSI Approved :: MIT License',  # Again, pick a license
+        'License :: OSI Approved :: Apache Software License',  # Again, pick a license
 
         'Programming Language :: Python :: 3',  # Specify which pyhton versions that you want to support
         'Programming Language :: Python :: 3.10',

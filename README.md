@@ -1,5 +1,7 @@
 # **MoonheimSMS**
 
+![](./img.webp)
+
 An asynchronous Python module for interacting with the Moonheim SMS API. The MoonheimSMS package allows for easy
 integration of SMS functionalities into your Python applications, including sending SMS messages, checking message
 status, and querying account balance.
@@ -78,3 +80,7 @@ We welcome contributions! Please open an issue or submit a pull request for any 
 ## License
 
 This project is licensed under the Apache License 2.0. See the [LICENSE](./LICENSE) file for details.
+
+
+> [!IMPORTANT]
+> This package is not officially affiliated with Meow SMS. All trademarks belong to their respective owners.
