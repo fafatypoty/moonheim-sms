@@ -6,6 +6,8 @@ An asynchronous Python module for interacting with the Moonheim SMS API. The Moo
 integration of SMS functionalities into your Python applications, including sending SMS messages, checking message
 status, and querying account balance.
 
+[![Downloads](https://static.pepy.tech/badge/moonheim-sms)](https://pepy.tech/project/moonheim-sms)
+
 ## **Features**
 
 - Asynchronous API calls
